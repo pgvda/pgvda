@@ -1,5 +1,5 @@
 👋 Hi, I'm Vidusha
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;Blockchain+Developer+%7C+Hyperledger+Fabric;Full+Stack+Dev+%7C+React+%2B+Node;Cybersecurity+%7C+Networking;Flutter+%7C+Kotlin+Mobile+Developer" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Blockchain+Developer+%7C+Hyperledger+Fabric;Full+Stack+Dev+%7C+React+%2B+Node;Cybersecurity+%7C+Networking;Flutter+%7C+Kotlin+Mobile+Developer" /> </p>
 🚀 About Me
 
 🎓 Computer Engineer – University of Ruhuna
